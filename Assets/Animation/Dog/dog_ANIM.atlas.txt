@@ -1,0 +1,76 @@
+
+dog_ANIM.png
+size: 531,1079
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 1
+  rotate: true
+  xy: 2, 773
+  size: 304, 360
+  orig: 304, 360
+  offset: 0, 0
+  index: -1
+голова
+  rotate: true
+  xy: 2, 467
+  size: 304, 342
+  orig: 304, 342
+  offset: 0, 0
+  index: -1
+грудь
+  rotate: false
+  xy: 2, 63
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+лапа задняя 3
+  rotate: false
+  xy: 364, 853
+  size: 165, 224
+  orig: 165, 224
+  offset: 0, 0
+  index: -1
+лапа задняя 4
+  rotate: false
+  xy: 364, 627
+  size: 165, 224
+  orig: 165, 224
+  offset: 0, 0
+  index: -1
+лапа передн 1
+  rotate: false
+  xy: 209, 2
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+лапа передн 2
+  rotate: false
+  xy: 341, 2
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ошейник
+  rotate: true
+  xy: 346, 381
+  size: 244, 176
+  orig: 244, 176
+  offset: 0, 0
+  index: -1
+тело
+  rotate: false
+  xy: 2, 270
+  size: 331, 195
+  orig: 331, 195
+  offset: 0, 0
+  index: -1
+хвост
+  rotate: false
+  xy: 335, 158
+  size: 192, 221
+  orig: 192, 221
+  offset: 0, 0
+  index: -1

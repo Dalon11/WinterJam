@@ -1,0 +1,39 @@
+
+ogon.png
+size: 1103,1103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main
+  rotate: false
+  xy: 2, 2
+  size: 1099, 1099
+  orig: 1099, 1099
+  offset: 0, 0
+  index: -1
+
+ogon2.png
+size: 1400,1400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back1
+  rotate: false
+  xy: 2, 2
+  size: 1396, 1396
+  orig: 1396, 1396
+  offset: 0, 0
+  index: -1
+
+ogon3.png
+size: 1559,1559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back2
+  rotate: false
+  xy: 2, 2
+  size: 1555, 1555
+  orig: 1555, 1555
+  offset: 0, 0
+  index: -1

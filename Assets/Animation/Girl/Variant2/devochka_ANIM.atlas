@@ -1,0 +1,62 @@
+
+devochka_ANIM.png
+size: 1498,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sad
+  rotate: true
+  xy: 2, 2
+  size: 413, 480
+  orig: 413, 480
+  offset: 0, 0
+  index: -1
+Слой 1
+  rotate: false
+  xy: 966, 53
+  size: 351, 362
+  orig: 351, 362
+  offset: 0, 0
+  index: -1
+голова
+  rotate: true
+  xy: 484, 2
+  size: 413, 480
+  orig: 413, 480
+  offset: 0, 0
+  index: -1
+нога 1
+  rotate: true
+  xy: 1319, 25
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+нога 2
+  rotate: false
+  xy: 1414, 2
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+рвка 1
+  rotate: false
+  xy: 1319, 97
+  size: 87, 122
+  orig: 87, 122
+  offset: 0, 0
+  index: -1
+рука2
+  rotate: false
+  xy: 1408, 97
+  size: 87, 122
+  orig: 87, 122
+  offset: 0, 0
+  index: -1
+тело
+  rotate: true
+  xy: 1319, 221
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1

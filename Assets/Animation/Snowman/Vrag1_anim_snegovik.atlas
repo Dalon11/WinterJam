@@ -1,0 +1,41 @@
+
+Vrag1_anim_snegovik.png
+size: 495,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+грудь
+  rotate: false
+  xy: 2, 339
+  size: 325, 300
+  orig: 325, 300
+  offset: 0, 0
+  index: -1
+морковка
+  rotate: true
+  xy: 2, 2
+  size: 335, 283
+  orig: 335, 283
+  offset: 0, 0
+  index: -1
+нижняя часть
+  rotate: false
+  xy: 2, 641
+  size: 423, 390
+  orig: 423, 390
+  offset: 0, 0
+  index: -1
+рука 1
+  rotate: false
+  xy: 329, 332
+  size: 153, 307
+  orig: 153, 307
+  offset: 0, 0
+  index: -1
+рука 2
+  rotate: true
+  xy: 287, 50
+  size: 280, 206
+  orig: 280, 206
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+3c6322a7813e6618.png
+size: 1576,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 2
+  rotate: false
+  xy: 1230, 428
+  size: 344, 344
+  orig: 344, 344
+  offset: 0, 0
+  index: -1
+Эллипс 1
+  rotate: false
+  xy: 730, 167
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+Эллипс 1 kопировать 3
+  rotate: false
+  xy: 2, 2
+  size: 483, 483
+  orig: 483, 483
+  offset: 0, 0
+  index: -1
+верх
+  rotate: false
+  xy: 487, 76
+  size: 241, 409
+  orig: 241, 409
+  offset: 0, 0
+  index: -1
+задверх
+  rotate: false
+  xy: 1242, 245
+  size: 226, 181
+  orig: 226, 181
+  offset: 0, 0
+  index: -1
+низ
+  rotate: true
+  xy: 2, 487
+  size: 285, 1226
+  orig: 285, 1226
+  offset: 0, 0
+  index: -1
+передверх
+  rotate: true
+  xy: 1050, 195
+  size: 231, 190
+  orig: 231, 190
+  offset: 0, 0
+  index: -1
+передверх kопировать
+  rotate: false
+  xy: 1050, 3
+  size: 231, 190
+  orig: 231, 190
+  offset: 0, 0
+  index: -1

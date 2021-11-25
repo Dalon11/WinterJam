@@ -1,0 +1,20 @@
+
+2bc93c338563b103.png
+size: 1423,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Прямоугольник 1
+  rotate: true
+  xy: 2, 353
+  size: 298, 1419
+  orig: 298, 1419
+  offset: 0, 0
+  index: -1
+Слой 0
+  rotate: false
+  xy: 2, 2
+  size: 791, 349
+  orig: 791, 349
+  offset: 0, 0
+  index: -1

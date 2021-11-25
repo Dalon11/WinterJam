@@ -1,0 +1,20 @@
+
+6adbf9892b06d964.png
+size: 639,683
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Прямоугольник 1
+  rotate: false
+  xy: 445, 2
+  size: 192, 679
+  orig: 192, 679
+  offset: 0, 0
+  index: -1
+Слой 0
+  rotate: false
+  xy: 2, 88
+  size: 441, 593
+  orig: 441, 593
+  offset: 0, 0
+  index: -1

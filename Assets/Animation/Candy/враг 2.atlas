@@ -1,0 +1,41 @@
+
+враг 2.png
+size: 800,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 2
+  rotate: true
+  xy: 2, 6
+  size: 435, 567
+  orig: 435, 567
+  offset: 0, 0
+  index: -1
+нога 1
+  rotate: true
+  xy: 571, 2
+  size: 118, 157
+  orig: 118, 157
+  offset: 0, 0
+  index: -1
+нога 2
+  rotate: true
+  xy: 571, 122
+  size: 119, 157
+  orig: 119, 157
+  offset: 0, 0
+  index: -1
+рот закрыт
+  rotate: true
+  xy: 730, 72
+  size: 169, 37
+  orig: 169, 37
+  offset: 0, 0
+  index: -1
+рот открыт
+  rotate: false
+  xy: 571, 243
+  size: 227, 198
+  orig: 227, 198
+  offset: 0, 0
+  index: -1
